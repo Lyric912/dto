@@ -1,5 +1,5 @@
-name: <name here>
-date: <date here>
+name: <Lyric Marner>
+date: <July 1, 2021 >
 
 Data Types and Operations | Questions
 
@@ -8,43 +8,44 @@ Please answer all of the following questions thoughtfully and completely.
 
 
 1a - What is the resulting type of two integers used together for an operation, like 5 + 4?
-
+The result would be an integer. 
 
 
 1b - Is there an exception to this rule, with a certain operator?
-
+If you use a float and an integer in an operation, the resulting type would be a float.
 
 
 2a - What is the resulting type of an integer and a float used together for an operation, like -11.4 - 5?
-
+The resulting type would be a float.
 
 
 2b - Is there an exception to this rule, with a certain operator?
-
+If you switch the float out for another integer, the the result would be an integer, other than thar I can't think of any exceptions.
 
 
 3a - What is the resulting type of two floats used together for an operation, like 2.3 * .45?
-
+The resulting type would be a float. 
 
 
 3b - Is there an exception to this rule, with a certain operator?
-
+I can't think of any exceptions except for switching out the multiplication symbol for the modulus symbol (the percentage sign).
 
 
 4 - What is string concatenation? How does it work?
-
+Strign concatenation is basically combining strings using addition or the addition symbol. It works by having the print function and then writing out yout string almost as if it were an equation. For example, print('ice'+'land') would give you iceland.
 
 
 5 - What is string duplication? How does it work?
-
+String duplication is the duplication of strings using multiplication. It works by having the print function and writing out yout string, then you duplicate that string by however many times you want by putting the multiplication sign and the number.  
 
 
 6 - Can you combine strings and integers? What about strings and floats? What happens if you do?
-
+You can't combine strings and integers or strings and floats. If you do you will get a type error. 
 
 
 7 - What does this tell you about how strings can interact with integers or floats?
-
+This tells me that strings can only interact with integers or floats under certain, specific conditions.
 
 
 8 - Can you use one of the operators to determine if a number is even or odd?
+Yes, you can use modulus to determine if a number is even or odd. 
